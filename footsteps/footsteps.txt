@@ -1,0 +1,16 @@
+TITLE: Footsteps
+AUTHOR: K. Camille Day
+DATE DUE: 2/8/22
+DATE SUBMITTED: 2/8/22
+COURSE TITLE: CSC202-H
+MEETING TIME(S): TTh 10:30-12:00
+DESCRIPTION: Two players input in a number. The footsteps move closer to whoever chose the highest number.
+To win, you must get to 0 points with the footsteps being on your side of the board.
+HONOR CODE: On my honor I have neither given nor recieved any unauthorized aid on this assignment. CDay
+HOWTO: Run with processing. Zip file must be unzipped before playing. All files within must be included.
+INPUT FILE:  N/A
+OUTPUT FILE: N/A
+BIBLIOGRAPHY: Processing documentation
+RESOURCES: N/A
+TUTORS: N/A
+COMMENTS: There are no known bugs at this time. 
